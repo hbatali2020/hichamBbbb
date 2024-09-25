@@ -1,0 +1,4 @@
+Flask
+spleeter
+ffmpeg-python
+Werkzeug
